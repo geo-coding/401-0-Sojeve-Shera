@@ -1,7 +1,8 @@
 # pronari
 
 ```
-Shera  Memeti 1005024672
+Shera  Mehmeti 
+1005024672
 +38344920898
 
 ```
@@ -29,7 +30,7 @@ Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia
 Gjithsej	3277	m²	Gjithsej	3277	m²
 
 ```
-### anlaiza sip 
+### analaiza sip 
 
 | Parc | txt | graph | dif |
 | --------------- | --------------- | --------------- | --------------- |
